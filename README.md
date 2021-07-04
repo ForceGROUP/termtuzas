@@ -1,1 +1,3 @@
 # termtuzas
+
+bash termtuzas.sh
